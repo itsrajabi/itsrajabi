@@ -37,7 +37,13 @@ Building toward **Quantitative Finance**, **Algorithmic Trading**, and **AI**.
 ### 🐍 Python Notes
 A complete Python learning repository based on *Python Crash Course*.
 
-🔗 https://github.com/itsrajabi/python-notes
+🔗 https://github.com/itsrajabi/python-for-everyone-notes
+
+### 🛠️ Mini Projects
+a collection of my small coding experiments, fun projects, and learning exercises.
+Projects such as, Cipher, Position size calculator and Brute Force ASCII Tool.
+
+🔗 https://github.com/itsrajabi/mini-projects
 
 ---
 
