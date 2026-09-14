@@ -20,16 +20,12 @@ Building toward **Quantitative Finance**, **Algorithmic Trading**, and **AI**.
 ## 🗺️ Learning Roadmap
 
 - ✅ Python Fundamentals
-- 🟨 Object-Oriented Programming
+- ✅ Object-Oriented Programming
 - 🟨 NumPy
-- ⬜ Pandas
+- 🟨 Pandas
 - ⬜ Data Visualization
 - 🟨 Statistics
 - ⬜ Machine Learning
-- ⬜ Quantitative Finance
-- 🟨 Algorithmic Trading
-- ⬜ Portfolio Projects
-
 ---
 
 ## 📂 Featured Projects
