@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Rajabi 👋
 
 **Computer Engineering Student**  
-Building toward **Quantitative Finance**, **Algorithmic Trading**, and **AI**.
+Building toward **AI/ML**.
 
 > Learning in public. Building one project at a time.
 
@@ -9,7 +9,6 @@ Building toward **Quantitative Finance**, **Algorithmic Trading**, and **AI**.
 
 ## 🚀 Current Focus
 
-- 📈 Quantitative Finance
 - 🤖 Artificial Intelligence & Machine Learning
 - 🐍 Python
 - 📊 Statistics & Data Analysis
@@ -43,12 +42,6 @@ Projects such as, Cipher, Position size calculator and Brute Force ASCII Tool.
 
 ---
 
-### 📈 Quant Finance Roadmap *(Coming Soon)*
-
-A public journey into quantitative finance, trading research and financial programming.
-
----
-
 ## 🛠 Tech Stack
 
 - Python
@@ -67,12 +60,6 @@ Currently Learning:
 
 ---
 
-## 🎯 Long-Term Goal
-
-Build open-source tools and educational content that help bridge software engineering and quantitative finance.
-
----
-
 ## 🌐 Connect
 
 LinkedIn:
@@ -82,4 +69,4 @@ GitHub:
 https://github.com/itsrajabi
 
 Email:
-rajabi.quant@gmail.com
+dev.rajabi.ai@gmail.com
